@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Virtual environment ----
+venv/
+.env
+.env.*
+
+# ---- SQLite database ----
+*.db
+
+# ---- VSCode ----
+.vscode/
+
+# ---- System files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+
+# ---- PyTest / Coverage ----
+.coverage
+htmlcov/
+pytest_cache/
+
+# ---- Build / Dist ----
+build/
+dist/
+*.egg-info/

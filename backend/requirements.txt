@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+aiogram==3.0.0b7
